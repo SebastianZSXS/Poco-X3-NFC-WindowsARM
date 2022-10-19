@@ -44,8 +44,11 @@ Thanks to ungeskriptet . by the uefi image of the Poco X3 NFC (Surya) [Here](htt
 
 ### Required Files ### 
 You need to have a Recovery installed on your Poco X3 NFC [Here](https://sourceforge.net/projects/mahajant99/files/surya/TWRP/)
+
 On PC you will need the platform-tools, you can download [Here](https://developer.android.com/studio/releases/platform-tools)
+
 You will need a Windows compiled for ARM, choose whatever version you like [Here](https://uupdump.net/)
+
 You need the uefi image of the Poco X3 NFC (Surya) [Here](https://github.com/ungeskriptet/edk2-surya)
 
 
