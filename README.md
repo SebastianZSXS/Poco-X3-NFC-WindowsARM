@@ -37,7 +37,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 Many information here was provided thanks to Renegade Project Discord server members.
 
-Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the Poco X3 NFC (Surya) [Here](https://github.com/ungeskriptet/edk2-surya)
+Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the [Poco X3 NFC (Surya)](https://github.com/ungeskriptet/edk2-surya)
 
 ###  Project status ### 
 you will have to correct the acpi table to be able to boot windows pe
