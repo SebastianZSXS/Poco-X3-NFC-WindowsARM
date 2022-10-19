@@ -1,0 +1,99 @@
+Commands
+
+Requirements:
+-You need to have Recovery TWRP Installed
+
+Start TWRP recovery
+
+###CMD | ADB###
+
+#####Push partitioned script to sdcard#####
+adb push partitioned /sdcard/
+
+####Start adb shell#####
+adb shell
+
+#####move parted to sbin directory###
+cp /sdcard/parted /sbin/ && chmod 755 /sbin/parted
+
+#unmount data and sdcard
+umount /data && umount /sdcard
+
+#Start partition
+parted /dev/block/sda
+
+#####Create partitions#########
+
+#Create partitions for models>> (64GB)
+mkpart esp fat32 10.8GB 11GB
+mkpart win ntfs 11GB 45GB
+mkpart userdata ext4 45GB 59.4GB
+
+
+###set 16 esp on###
+set 16 esp on
+
+###quit###
+quit
+
+# Reboot into recovery mode
+
+####Format Partitions####
+
+mkfs.fat -F32 -s1 /dev/block/by-name/esp
+mkfs.ntfs -f /dev/block/by-name/win
+mke2fs -t ext4 /dev/block/by-name/userdata
+
+# Reboot into recovery mode
+
+
+###Move msc.sh to internal memory###
+adb push msc.sh /sdcard
+
+#These two commands start the program###
+chmod +x msc.sh
+
+./msc.sh
+
+###Once Poco X3 NFC is detected as disk###
+
+# open a new cmd
+#This will start the Windows Disk Management tool###
+diskpart
+
+(this will depend on each user, the
+number depending on the amount of disk installed in your computer/laptop)
+
+###Select the Poco X3 NFC drive###
+select disk 1
+
+###Select the volume where we are going to install Windows###
+sel vol 3
+
+###We assign the letter x to the volume where we are going to install Windows###
+assign letter=x
+
+###Select the volume where we will install the drivers###
+sel vol 4
+
+###We assign the letter and the volume where we will install the drivers###
+assign letter=y
+
+
+#Install Windows (replace "User" with your user and "Folderwindowsarm" with your folder that contains windows arm, important that it be without spaces)
+
+dism /apply-image /ImageFile:"C:\Users\Username\Downloads\WindowsarmFolder\sources\install.wim" /index:1 /ApplyDir:X:\
+
+#This is to select Y as uefi###
+bcdboot X:\Windows /s Y: /f UEFI
+
+# Now unsigned drivers must be allowed
+bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set {default} testsigning on
+
+#This command is optional, it is to bring up a start menu
+bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set {bootmgr} displaybootmenu yes
+
+
+###############Boots with Windows bootable UEFI image##############
+
+fastboot flash boot (device uefi.img)
