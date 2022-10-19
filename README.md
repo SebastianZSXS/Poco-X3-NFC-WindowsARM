@@ -10,9 +10,9 @@ Not working: ❌
 
 || Aditional notes | Status |
 |---------------|------------------------|--------------------------|
-| USB |  | ✅|
-| UFS |  | ✅|
-| Display | | ?|
+| USB | Powered hub needed | ✅|
+| UFS |  | ?|
+| Display | | ✅|
 | UEFI Buttons |  | ❌|
 | Touchscreen | | ❌|
 | WiFi | | ❌|
