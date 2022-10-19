@@ -52,4 +52,4 @@ You will need a Windows compiled for ARM, choose whatever version you like [Here
 You need the uefi image of the Poco X3 NFC (Surya) [Here](https://github.com/ungeskriptet/edk2-surya)
 
 
-Repository based on the Special ice 98 (Poco X3 PRO) [Here](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
+Repository based on the Special ice 68 (Poco X3 PRO) [Here](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
