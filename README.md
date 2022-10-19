@@ -19,14 +19,14 @@ Not working: ❌
 | Bluetooth | | ❌|
 | Battery |  | ❌|
 | Charge |  | ❌|
-| Virtualization |  | ❌|
+| Virtualization | it is impossible for this to work	 | ❌|
 | GPU | | ❌|
 | LTE |  | ❌|
 | Audio |  | ❌|
 | Location |  | ❌|
 | Sensors |  | ❌|
-| Camera | | ❌|
-| NFC |  | ❌|
+| Camera | it is almost impossible in this project	 | ❌|
+| NFC | does not work on any device	 | ❌|
 
 ## Warning!
 We're not responsible for bricked devices, dead microSD cards, dead cats or dogs, nuclear wars or you getting fired because the alarm app didn't work.
