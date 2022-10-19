@@ -3,30 +3,30 @@
 
 # Compatibilidad
 
-Trabajando: ✅|
-En proceso: 🔶️|
-No funciona: ❌
+Working: ✅|
+In progess: 🔶️|
+Not working: ❌
 
 
-|| Notas adicionales | Estado |
-|---------------|------------------------|-------- ------------------|
-| USB | | ✅|
-| UFS | | ✅|
-| Mostrar | | ?|
-| Botones UEFI | | ❌|
-| Pantalla táctil | | ❌|
-| Wi-Fi | | ❌|
+|| Aditional notes | Status |
+|---------------|------------------------|--------------------------|
+| USB |  | ✅|
+| UFS |  | ✅|
+| Pantalla | | ?|
+| UEFI Buttons |  | ❌|
+| Tactil | | ❌|
+| WiFi | | ❌|
 | Bluetooth | | ❌|
-| Batería | | ❌|
-| Cargo | | ❌|
-| Virtualización | | ❌|
+| Bateria |  | ❌|
+| Charge |  | ❌|
+| Virtualization |  | ❌|
 | GPU | | ❌|
-| LTE | | ❌|
-| Sonido | | ❌|
-| Ubicación | | ❌|
-| Sensores | | ❌|
-| Cámara | | ❌|
-| NFC | | ❌|
+| LTE |  | ❌|
+| Audio |  | ❌|
+| Location |  | ❌|
+| Sensors |  | ❌|
+| Camera | | ❌|
+| NFC |  | ❌|
 
 ## ¡Advertencia!
 No somos responsables de dispositivos bloqueados, tarjetas microSD muertas, gatos o perros muertos, guerras nucleares o que te despidan porque la aplicación de alarma no funcionó.
@@ -44,8 +44,11 @@ Gracias a ungeskriptet. por la imagen uefi del Poco X3 NFC (Surya) [Aquí](https
 
 ### Archivos requeridos ###
 -Necesitas tener un Recovery instalado en tu Poco X3 NFC [Aquí](https://sourceforge.net/projects/mahajant99/files/surya/TWRP/)
+
 -En la PC, necesitará las herramientas de la plataforma, puede descargar [Aquí] (https://developer.android.com/studio/releases/platform-tools)
+
 -Necesitarás un Windows compilado para ARM, elige la versión que quieras [Aquí](https://uupdump.net/)
+
 -Necesitas la imagen uefi del Poco X3 NFC (Surya) [Aquí](https://github.com/ungeskriptet/edk2-surya)
 
 
