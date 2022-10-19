@@ -40,7 +40,7 @@ Many information here was provided thanks to Renegade Project Discord server mem
 Thanks to ungeskriptet . by the uefi image of the Poco X3 NFC (Surya) [Here](https://github.com/ungeskriptet/edk2-surya)
 
 ###  Project status ### 
-(?)
+It is trying to boot windows pe
 
 ### Required Files ### 
 You need to have a Recovery installed on your Poco X3 NFC [Here](https://sourceforge.net/projects/mahajant99/files/surya/TWRP/)
