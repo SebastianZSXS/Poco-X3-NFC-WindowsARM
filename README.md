@@ -40,7 +40,7 @@ Many information here was provided thanks to Renegade Project Discord server mem
 Thanks to ungeskriptet . by the uefi image of the Poco X3 NFC (Surya) [Here](https://github.com/ungeskriptet/edk2-surya)
 
 ###  Project status ### 
-It is trying to boot windows pe
+you will have to correct the acpi table to be able to boot windows pe
 
 ### Required Files ### 
 You need to have a Recovery installed on your Poco X3 NFC [Here](https://sourceforge.net/projects/mahajant99/files/surya/TWRP/)
@@ -51,5 +51,4 @@ You will need a Windows compiled for ARM, choose whatever version you like [Here
 
 You need the uefi image of the Poco X3 NFC (Surya) [here](https://github.com/ungeskriptet/edk2-surya)
 
-
-Repository based on the Special ice 68 (Poco X3 PRO) [Here](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
+Repository based on the Special ice 68 [(Poco X3 PRO)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
