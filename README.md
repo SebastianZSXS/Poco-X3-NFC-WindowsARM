@@ -23,6 +23,7 @@ Not working: ❌
 | Battery |  | ❌|
 | Charge |  | ❌|
 | Virtualization | it is impossible for this to work	 | ❌|
+| CPU | in theory only one core should work| 🔶️|
 | GPU | | ❌|
 | LTE |  | ❌|
 | Audio |  | ❌|
