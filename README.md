@@ -18,7 +18,7 @@ Not working: ❌
 || Aditional notes | Status |
 |---------------|------------------------|--------------------------|
 | USB | Powered hub needed | 🔶️|
-| UFS |  | ❌|
+| UFS |  | ✅|
 | Display | | ✅|
 | UEFI Buttons |  | ❌|
 | Touchscreen | | ❌|
