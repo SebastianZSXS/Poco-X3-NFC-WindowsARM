@@ -1,5 +1,8 @@
 # Poco-X3-NFC-WindowsARM
 
+# Credits
+
+- [Degdag](https://github.com/degdag) ```drivers for winpe are patched from their project for the x3 pro```
 
 # Compatibility
 
