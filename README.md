@@ -4,6 +4,8 @@
 
 - [Degdag](https://github.com/degdag) ```drivers for winpe are patched from their project for the x3 pro```
 
+Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the [Poco X3 NFC (Surya)](https://github.com/ungeskriptet/edk2-surya)
+
 # Compatibility
 
 Working: ✅|
@@ -40,8 +42,6 @@ This is a delicate process, do it under your own risk and follow all the steps c
 This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get.
 
 Many information here was provided thanks to Renegade Project Discord server members.
-
-Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the [Poco X3 NFC (Surya)](https://github.com/ungeskriptet/edk2-surya)
 
 ###  Project status ### 
 you will have to correct the acpi table to be able to boot windows pe
