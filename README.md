@@ -6,7 +6,7 @@
 
 - Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the [Poco X3 NFC (Surya)](https://github.com/ungeskriptet/edk2-surya)
 
-Repository based on the Special ice 68 [(Poco X3 PRO)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
+Repository based on the Special ice 68 [(Poco X3 Pro)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
 
 # Compatibility
 
