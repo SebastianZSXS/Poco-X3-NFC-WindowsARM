@@ -4,7 +4,9 @@
 
 - [Degdag](https://github.com/degdag) ```drivers for winpe are patched from their project for the x3 pro```
 
-- Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the [Poco X3 NFC (Surya)](https://github.com/ungeskriptet/edk2-surya)
+- Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the [Poco X3 NFC (Surya)](https://github.com/ungeskriptet/edk2-msm/tree/sm7150)
+
+- (github archived)[https://github.com/ungeskriptet/edk2-surya]
 
 Repository based on the Special ice 68 [(Poco X3 Pro)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
 
