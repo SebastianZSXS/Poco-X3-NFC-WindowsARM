@@ -8,7 +8,7 @@
 
 - [github edk2-msm](https://github.com/edk2-porting/edk2-msm)
 
-Repository based on the Special ice 68 [(Poco X3 Pro)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
+- Repository based on the Special ice 68 [(Poco X3 Pro)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
 
 # Compatibility
 
