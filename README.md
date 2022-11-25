@@ -1,60 +1,91 @@
-# Poco-X3-NFC-WindowsARM
+# Running Windows 11 On The Poco X3 Nfc
 
-# Credits
+<img align="right" src="https://github.com/halal-beef/res/blob/main/vayuwindows.png" height="550">
 
-- [Degdag](https://github.com/degdag) ```drivers for winpe are patched from their project for the x3 pro```
+# ⚠️ **Warning**
 
-- Thanks to [ungeskriptet](https://github.com/ungeskriptet) by the uefi image of the Poco X3 NFC (Surya)
+We're not responsible for bricked devices, dead microSD cards, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
 
-- [github edk2-msm](https://github.com/edk2-porting/edk2-msm)
+This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
-- Repository based on the Special ice 68 [(Poco X3 Pro)](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro)
+## Project Status
 
-# Compatibility
+Beta, we're porting drivers from Xiaomi Pad 5 and Surface Duo in hope that it will work on the Poco X3 Pro.
 
-Working: ✅|
-In progess: 🔶️|
-Not working: ❌
+## Hardware status
+### Features
+- [ ] USB ```Powered hub needed```
+- [ ] UEFI buttons
+- [x] UFS
+- [ ] Touchscreen ```In progress!!!!```
+- [x] Display
+- [ ] Brightness
+- [ ] WiFi
+- [ ] Battery status
+- [ ] Charging ```In progress```
+- [ ] GPU
+- [ ] Audio ```Only if it is by usb or bluetooth```
+- [ ] Bluetooth
+- [ ] Camera ```It is almost impossible in this project```
+- [ ] LTE ```Nearly working, Windows detects it but does not allow access to the mobile network```
 
+### Sensors
+- [ ] Accelerometer
+- [ ] Magnetometer
+- [ ] Gyroscope 
+- [ ] GPS
+- [ ] Proximity
+- [ ] Light sensor
+- [ ] Fingerprint
 
-|| Aditional notes | Status |
-|---------------|------------------------|--------------------------|
-| USB | Powered hub needed | 🔶️|
-| UFS |  | ✅|
-| Display | | ✅|
-| UEFI Buttons |  | ❌|
-| Touchscreen | | ❌|
-| WiFi | | ❌|
-| Bluetooth | | ❌|
-| Battery |  | ❌|
-| Charge |  | ❌|
-| Virtualization | it is impossible for this to work	 | ❌|
-| CPU | in theory only one core should work| 🔶️|
-| GPU | | ❌|
-| LTE |  | ❌|
-| Audio |  | ❌|
-| Location |  | ❌|
-| Sensors |  | ❌|
-| Camera | it is almost impossible in this project	 | ❌|
-| NFC | does not work on any device	 | ❌|
+## Installation instructions
 
-## Warning!
-We're not responsible for bricked devices, dead microSD cards, dead cats or dogs, nuclear wars or you getting fired because the alarm app didn't work.
+<details> 
 
-This is a delicate process, do it under your own risk and follow all the steps carefully.
+<summary><strong>All Files Needed</strong></summary>
+ 
+- You will need the [Windows on ARM image](https://uupdump.net/) (Windows 11 is Recommended)
 
-This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get.
+- [UEFI image for Poco X3 Nfc](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/tree/main/UEFI)
 
-Many information here was provided thanks to Renegade Project Discord server members.
+- [TWRP](https://forum.xda-developers.com/t/recovery-3-4-0-15-surya-twrp-xiaomi-poco-x3.4167199/) for Poco X3 Nfc.
 
-###  Project status ### 
-you will have to correct the acpi table to be able to boot windows pe
+- [Magisk](https://github.com/topjohnwu/Magisk)
 
-### Required Files ### 
-You need to have a Recovery installed on your Poco X3 NFC [Here](https://sourceforge.net/projects/mahajant99/files/surya/TWRP/)
+- On PC you will need the [Mass Storage Mode Script](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) ```This file belongs to gus33000```
 
-On PC you will need the platform-tools, you can download [Here](https://developer.android.com/studio/releases/platform-tools)
+- On PC you will need [platform-tools](https://developer.android.com/studio/releases/platform-tools).
 
-You will need a Windows compiled for ARM, choose whatever version you like [Here](https://uupdump.net/)
+- On PC you will also need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](I hope soon)
 
-You need the uefi image of the Poco X3 NFC (Surya) [here](https://github.com/ungeskriptet/edk2-surya)
+- We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for partitioning.
+  
+ </details> 
+
+### Commands
+
+**Make sure to install TWRP, Magisk And The Magisk Module Before Proceeding.**
+
+[Do these commands](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/tree/main/Commands)
+
+## Contributors
+
+<details> 
+
+<summary><b><strong>Credits</strong></b></summary>
+
+- [SebastianZSXS](https://github.com/SebastianZSXS) ```Made this repo```
+
+- [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands ```
+
+- [Ungeskriptet](https://github.com/ungeskriptet) ```Made uefi image of the Poco X3 NFC (Surya)```
+
+- [Degdag](https://github.com/degdag) ```Has given me a lot of information```
+
+- [Halal-Beef](https://github.com/halal-beef) ```Has given me a lot of information```
+  
+- [Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
+
+- [Renegade Project Discord members](https://discord.gg/XXBWfag) ```Provided Help```
+ 
+</details>  
