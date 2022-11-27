@@ -10,7 +10,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Project Status
 
-Beta, we're porting drivers from Xiaomi Pad 5 and Surface Duo in hope that it will work on the Poco X3 Pro.
+Alpha 
 
 ## Hardware status
 ### Features
