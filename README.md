@@ -17,17 +17,17 @@ Alpha
 - [ ] USB ```Powered hub needed```
 - [ ] UEFI buttons
 - [x] UFS
-- [ ] Touchscreen ```In progress!!!!```
+- [ ] Touchscreen `
 - [x] Display
 - [ ] Brightness
 - [ ] WiFi
 - [ ] Battery status
-- [ ] Charging ```In progress```
+- [ ] Charging 
 - [ ] GPU
-- [ ] Audio ```Only if it is by usb or bluetooth```
+- [ ] Audio 
 - [ ] Bluetooth
 - [ ] Camera ```It is almost impossible in this project```
-- [ ] LTE ```Nearly working, Windows detects it but does not allow access to the mobile network```
+- [ ] LTE
 
 ### Sensors
 - [ ] Accelerometer
