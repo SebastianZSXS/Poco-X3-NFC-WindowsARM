@@ -17,7 +17,7 @@ Alpha
 - [ ] USB ```Powered hub needed```
 - [ ] UEFI buttons
 - [x] UFS
-- [ ] Touchscreen ```In teoría is similar to Poco X3 Pro```
+- [ ] Touchscreen ```In theory is similar to Poco X3 Pro```
 - [x] Display
 - [ ] Brightness
 - [ ] WiFi
