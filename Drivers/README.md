@@ -9,6 +9,4 @@ GPU: Qualcomm Adreno 618	 (```Can use driver from SC7180```)
 
 ## Drivers 
 
-[Drivers documentation](https://elixir.bootlin.com/linux/latest/source/drivers/interconnect/qcom/sc7180.c)
-
 [Touchscreen Drivers](https://github.com/Icesito68/nt36672c_win)
