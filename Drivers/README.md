@@ -1,5 +1,7 @@
 ## Hardware
 
+| Component | | Model	| 
+| Soc | | Qualcomm SM7150 Snapdragon 732G	|
 
 ##Drivers 
 
