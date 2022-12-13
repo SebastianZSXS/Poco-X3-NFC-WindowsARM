@@ -23,7 +23,7 @@ Alpha
 - [ ] WiFi
 - [ ] Battery status
 - [ ] Charging 
-- [ ] GPU
+- [ ] GPU ```Can use driver from SC7180```
 - [ ] Audio 
 - [ ] Bluetooth
 - [ ] Camera ```It is almost impossible in this project```
