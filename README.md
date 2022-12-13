@@ -15,7 +15,7 @@ Alpha
 ## Hardware status
 ### Features
 - [ ] USB ```Powered hub needed```
-- [ ] UEFI buttons
+- [ ] UEFI buttons ```In theory is similar to Poco X3 Pro```
 - [x] UFS
 - [ ] Touchscreen ```In theory is similar to Poco X3 Pro```
 - [x] Display
