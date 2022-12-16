@@ -10,7 +10,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Project Status
 
-Alpha, Windows pe work without USB 
+Alpha, Windows 11 boot but without USB 
 
 ## Hardware status
 ### Features
