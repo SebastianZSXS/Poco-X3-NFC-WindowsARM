@@ -74,15 +74,15 @@ Alpha, Windows 11 boot but without USB
 
 <summary><b><strong>Credits</strong></b></summary>
 
-- [SebastianZSXS](https://github.com/SebastianZSXS) ```Made this repo```
+- [SebastianZSXS](https://github.com/SebastianZSXS) ```Made this repo and test the progress```
 
-- [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands ```
+- [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and set the acpi table to the new uefi```
 
 - [Ungeskriptet](https://github.com/ungeskriptet) ```Made uefi image of the Poco X3 NFC (Surya)```
 
 - [Degdag](https://github.com/degdag) ```Has given me a lot of information```
 
-- [Halal-Beef](https://github.com/halal-beef) ```Has given me a lot of information```
+- [Halal-Beef](https://github.com/halal-beef) ```Has given me a lot of information and I create the photo of the poco```
   
 - [Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
 
