@@ -10,7 +10,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Project Status
 
-Alpha, Windows 11 boot but without USB 
+Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB work
 
 ## Hardware status
 ### Features
