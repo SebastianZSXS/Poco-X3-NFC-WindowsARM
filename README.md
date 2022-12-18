@@ -17,7 +17,7 @@ Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB
 - [ ] USB ```Work is underway to make it work on Windows```
 - [x] UEFI buttons ```In theory is similar to Poco X3 Pro```
 - [x] UFS
-- [ ] Touchscreen ```Is similar to Poco X3 Pro```
+- [ ] Touchscreen ```Is similar to Poco X3 Pro, In theory we already have a driver, but things are missing```
 - [x] Display
 - [ ] Brightness
 - [ ] WiFi
