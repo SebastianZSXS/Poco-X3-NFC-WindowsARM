@@ -82,7 +82,7 @@ Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB
 
 - [Degdag](https://github.com/degdag) ```Has given me a lot of information```
 
-- [Halal-Beef](https://github.com/halal-beef) ```Has given me a lot of information and I create the photo of the poco```
+- [Halal-Beef](https://github.com/halal-beef) ```Special thanks for the help you have given me and I create the photo of the poco```
   
 - [Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
 
