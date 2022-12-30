@@ -1,6 +1,6 @@
 # Running Windows 11 On The Poco X3 Nfc
 
-<img align="right" src="https://github.com/wormstest/src_vayu_windows/blob/main/Vayu-Windows11 (3).png" width="425" alt="Windows 11 Running On A Poco X3 Pro">
+<img align="center" src="https://github.com/wormstest/src_vayu_windows/blob/main/2Poco X3 Pro Windows.png" alt="Windows 11 Running On A Poco X3 Pro">
 
 # ⚠️ **Warning**
 
