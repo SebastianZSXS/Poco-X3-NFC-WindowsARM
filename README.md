@@ -46,7 +46,7 @@ Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB
  
 - You will need the [Windows on ARM image](https://uupdump.net/) (Windows 11 is Recommended)
 
-- [UEFI image for Poco X3 Nfc](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/tree/main/UEFI)
+- [UEFI image for Poco X3 Nfc](https://github.com/Icesito68/edk2-msm-surya/releases/tag/Release)
 
 - [TWRP](https://forum.xda-developers.com/t/recovery-3-4-0-15-surya-twrp-xiaomi-poco-x3.4167199/) for Poco X3 Nfc.
 
