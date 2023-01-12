@@ -78,7 +78,7 @@ dism /apply-image /ImageFile:<path/to/install.wim> /index:1 /ApplyDir:X:\
 > abre un cmd como Administrador
 
 ```cmd
-driverupdater.exe -d <suryadriversfolder>\definitions\Desktop\ARM64\Internal\vayu.txt -r <suryadriversfolder> -p X:
+driverupdater.exe -d <suryadriversfolder>\definitions\Desktop\ARM64\Internal\surya.txt -r <suryadriversfolder> -p X:
 ```
 
   
