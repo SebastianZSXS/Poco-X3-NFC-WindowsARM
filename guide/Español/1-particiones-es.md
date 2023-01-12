@@ -64,7 +64,7 @@ mkpart userdata ext4 45GB 59.4GB
 ```
 
 
-#### Para modelos de 128Gb:
+#### Para modelos de 128Gb (Aún no están hechas, hace falta un tester):
 
 - Crea la partición ESP (Aqui estará el bootloader de Windows y los archivos EFI)
 ```sh
