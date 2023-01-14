@@ -86,9 +86,9 @@ Phone:
 
 <summary><strong>Español</strong></summary>
 
-1 - [Crear particiones](soon)
+1 - [Crear particiones]((https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/1-particiones-es.md)
 
-2 - [Instalar Windows](soon)
+2 - [Instalar Windows](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/2-instalacion-es.md)
   
 </details> 
 
@@ -106,7 +106,7 @@ Phone:
 
 <summary><strong>Español</strong></summary>
 
-- [Si solo quieres actualizar los drivers sigue estos comandos](soon)
+- [Si solo quieres actualizar los drivers sigue estos comandos](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/Actualizar-es.md)
   
 </details> 
 
