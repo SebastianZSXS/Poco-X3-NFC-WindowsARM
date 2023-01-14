@@ -86,7 +86,7 @@ Phone:
 
 <summary><strong>Español</strong></summary>
 
-1 - [Crear particiones]((https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/1-particiones-es.md)
+1 - [Crear particiones](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/1-particiones-es.md)
 
 2 - [Instalar Windows](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/2-instalacion-es.md)
   
