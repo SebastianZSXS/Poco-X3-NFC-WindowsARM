@@ -61,7 +61,7 @@ PC:
 
 - [platform-tools](https://developer.android.com/studio/releases/platform-tools).
 
-- [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](I hope soon)
+- [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/Icesito68/Surya-Drivers)
 
 Phone:
 - [UEFI image](https://github.com/Icesito68/edk2-msm-surya/releases/tag/Release)
