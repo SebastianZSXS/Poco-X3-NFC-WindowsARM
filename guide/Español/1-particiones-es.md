@@ -64,21 +64,21 @@ mkpart userdata ext4 45GB 59.4GB
 ```
 
 
-#### Para modelos de 128Gb (Aún no están hechas, hace falta un tester):
+#### Para modelos de 128Gb:
 
 - Crea la partición ESP (Aqui estará el bootloader de Windows y los archivos EFI)
 ```sh
-
+mkpart esp fat32 10.8GB 11GB
 ```
 
 - Creamos la partición principal donde instalaremos Windows
 ```sh
-
+mkpart win ntfs 11GB 65GB
 ```
 
 - Creamos la partición de datos de Android
 ```sh
-
+mkpart userdata ext4 65GB 123GB
 ```
 
 
