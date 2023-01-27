@@ -64,7 +64,7 @@ PC:
 - [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/Icesito68/Surya-Drivers)
 
 Phone:
-- [UEFI image](https://github.com/Icesito68/edk2-msm-surya/releases/tag/Release)
+- [UEFI image](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/releases/tag/Uefi)
 
 - [TWRP](https://forum.xda-developers.com/t/recovery-3-4-0-15-surya-twrp-xiaomi-poco-x3.4167199/)
 
