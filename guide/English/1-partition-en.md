@@ -54,7 +54,6 @@ mkpart win ntfs 11GB 45GB
 ```sh
 mkpart userdata ext4 45GB 59.4GB
 ```
-```
 
 #### For 128Gb models:
 
