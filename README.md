@@ -76,9 +76,9 @@ Phone:
 
 <summary><strong>English</strong></summary>
 
-1 - [Create partitions](soon)
+1 - [Create partitions](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/1-partition-en.md)
 
-2 - [Install Windows](soon)
+2 - [Install Windows](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/2-install-en.md)
   
 </details> 
   
