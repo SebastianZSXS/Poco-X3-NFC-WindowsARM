@@ -98,7 +98,7 @@ Phone:
 
 <summary><strong>English</strong></summary>
 
-- [If you just want to update the drivers follow these commands](soon)
+- [If you just want to update the drivers follow these commands](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/update-en.md)
   
 </details> 
 
