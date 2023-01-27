@@ -41,7 +41,7 @@ rm 16
 #### For 64Gb models:
 
 - Create the ESP partition (stores Windows bootloader data and EFI files)
-- ```sh
+ ```sh
 mkpart esp fat32 10.8GB 11GB
 ```
 
