@@ -23,7 +23,7 @@ adb shell sh /sbin/msc
 
 #### Iniciar el administrador de discos de Windows
 
-> Cuando el X3 Pro sea detectado como disco
+> Cuando el X3 Nfc sea detectado como disco
 
 ```cmd
 diskpart
