@@ -5,6 +5,7 @@ Estos pasos son necesarios para crear las particiones donde pondremos Windows
 - Estos comandos han sido testeados.
 - Ignora las advertencias de `udevadm`
 - No ejecutes el mismo comando dos veces
+- NO REINICIES TU DISPOSITIVO si crees que cometiste un error, preguntanos en el [Chat de Telegram](https://t.me/windows_on_pocox3_nfc)
 
 #### Arranca en TWRP desde el PC con este comando
 ```cmd
@@ -47,7 +48,6 @@ rm 16
 > Si recibes cualquier advertencia que te diga ignorar o cancelar, solo escribe i y dale a enter enter
 
 #### Para los modelos de 64Gb:
-
 - Crea la partición ESP (Aqui estará el bootloader de Windows y los archivos EFI)
 ```sh
 mkpart esp fat32 10.8GB 11GB
@@ -118,4 +118,4 @@ después escribe `yes`.
 Solo reinicia el teléfono y comprueba si Android inicia
 
 
-## [Siguiente paso: Instalar Windows](/guide/Español/2-instalacion-es.md)
+## [Siguiente paso: Instalar Windows](/guide/Español/instalacion.md)

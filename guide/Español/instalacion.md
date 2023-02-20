@@ -60,6 +60,9 @@ assign letter=y
 exit
 ```
 
+  
+  
+
 ## Instalar
 
 > reemplaza `<path/to/Install.wim>` por la ruta del archivo install.wim
@@ -70,6 +73,7 @@ exit
 ```cmd
 dism /apply-image /ImageFile:<path/to/install.wim> /index:1 /ApplyDir:X:\
 ```
+
 
 # Instalar los Drivers
 
@@ -88,6 +92,8 @@ driverupdater.exe -d <suryadriversfolder>\definitions\Desktop\ARM64\Internal\sur
 ```cmd
 bcdboot X:\Windows /s Y: /f UEFI
 ```
+
+  
   
 
 # Permite los drivers no firmados
