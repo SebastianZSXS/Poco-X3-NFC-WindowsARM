@@ -14,13 +14,13 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Get Started
 
-- [Installation instructions](guide/english/partition.md)
+- [Installation instructions](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/partition.md)
 
 - [Uninstall instructions](guide/english/uninstall.md)
 
 
 ## Miscellaneous
 
-- [Project Status](guide/english/status.md)
+- [Project Status](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/status.md)
 
-- [Driver updating instructions](guide/english/driver-updating.md)
+- [Driver updating instructions](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/driver-updating.md)

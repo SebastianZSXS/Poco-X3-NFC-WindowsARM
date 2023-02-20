@@ -9,17 +9,17 @@ No somos responsables de dispositivos bloqueados, particiones de recuperación e
 
 Este proyecto se encuentra en una etapa inicial, todos los archivos aquí han sido aportados por otros usuarios, aquí encontrará una guía con los archivos que logramos obtener. Este es un proceso delicado, hazlo bajo tu propio riesgo y sigue todos los pasos cuidadosamente.
 
-**SI NO SE SIENTE CÓMODO MODIFICANDO SU TELÉFONO O SU TABLA DE PARTICIONES O ESTÁ PARANOICO DE BRICKEAR SU DISPOSITIVO HAGA CLIC AHORA MISMO!!! USTED HA SIDO ADVERTIDO, USTED ESTÁ POR SU CUENTA SI LADRILLA SU DISPOSITIVO!!! ¡DE NUEVO! ¡¡¡USTED HA SIDO ADVERTIDO!!!**
+**SI NO SE SIENTE CÓMODO MODIFICANDO SU TELÉFONO O SU TABLA DE PARTICIONES O ESTÁ PARANOICO DE BRICKEAR SU DISPOSITIVO SALGA AHORA MISMO!!! USTED HA SIDO ADVERTIDO, USTED ESTÁ POR SU CUENTA SI BCRICKEA SU DISPOSITIVO!!! ¡DE NUEVO! ¡¡¡USTED HA SIDO ADVERTIDO!!!**
 
 ## Comencemos
 
-- [Instrucciones para instalar](guide/español/particiones.md)
+- [Instrucciones para instalar](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/particiones.md)
 
-- [Instrucciones para desinstalar](guide/español/desinstalar.md)
+- [Instrucciones para desinstalar](guide/Español/desinstalar.md)
 
 
 ## Extras
 
-- [Estado del proyecto](guide/español/estado.md)
+- [Estado del proyecto](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/estado.md)
 
-- [Actualizar drivers](guide/español/actualizar-drivers.md)
+- [Actualizar drivers](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/actualizar-drivers.md)

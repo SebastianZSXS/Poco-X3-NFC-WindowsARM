@@ -16,6 +16,6 @@ This project is in an early stage, all the files here have been contributed by o
 
 - [English](language/english.md)
 
-- [Español](language/english.md)
+- [Español](language/español.md)
 
 ## Contributors

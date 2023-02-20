@@ -9,22 +9,22 @@ Alfa, Windows 11 arranca pero sin USB, lo próximo es conseguir que este funcion
 
 #### Características
 
-- [ ] Audio ```Solo por USB o Bluetooth```
+- [ ] Audio 
 - [ ] Porcentaje de la batería
 - [ ] Bluetooth
 - [ ] Brillo
 - [ ] Cámara
-- [ ] Carga ```Solo carga lenta por ahora```
+- [ ] Carga 
 - [x] Pantalla
 - [ ] GPU
-- [ ] LTE ```Solo la SIM1; necesita ponerse en cada arranque```
-- [ ] SD ```Hace falta conectar y desconectar la microSd muchas veces para que la detecte```
-- [ ] Táctil ```Necesita que apagues y enciendas la pantalla después de cada reinicio```
+- [ ] LTE 
+- [ ] SD 
+- [ ] Táctil ```El driver está listo, pero aún necesita más cosas para funcionar```
 - [x] UFS
-- [ ] USB ```Se necesita un hub con alimentación externa```
+- [ ] USB ```Se está trabajando en el para que funcione en Windows```
 - [ ] WiFi
 
-#### Sensores (Necesitan ponerse manualmente después de instalar Windows)
+#### Sensores
 - [ ] Acelerómetro
 - [ ] Sensor de huellas
 - [ ] GPS
