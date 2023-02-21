@@ -11,6 +11,28 @@ Este proyecto se encuentra en una etapa inicial, todos los archivos aquí han si
 
 **SI NO SE SIENTE CÓMODO MODIFICANDO SU TELÉFONO O SU TABLA DE PARTICIONES O ESTÁ PARANOICO DE BRICKEAR SU DISPOSITIVO SALGA AHORA MISMO!!! USTED HA SIDO ADVERTIDO, USTED ESTÁ POR SU CUENTA SI BCRICKEA SU DISPOSITIVO!!! ¡DE NUEVO! ¡¡¡USTED HA SIDO ADVERTIDO!!!**
 
+<details>
+<summary><a><strong>Requisitos Previos</strong></a></summary>
+
+- Tener el bootloader desbloqueado
+
+- Tener el [TWRP](https://mega.nz/file/zY4GCDRT#PxUKhUHkucj1oRH_Iu-R6exDak66hPeI71xJWHCTQkY) u [Orange Fox](https://drive.google.com/file/d/1eHM9ST9ni-55bbT3z-TGSZQsgE3KYr9s/view) instalado
+
+- Tener descargadas las [Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
+
+- Tener un [ISO de Windows 11 Arm](https://uupdump.net/)
+
+- Tener [Parted](https://www.mediafire.com/file/s9bjano4pezphou/parted/file) (Este archivo pertenece a [Gus33000](https://github.com/gus33000))
+
+- Tener el script de [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (Este archivo pertenece a [Gus33000](https://github.com/gus33000))
+
+- Tener la [Uefi del X3 NFC](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/releases/tag/Uefi)
+
+- Tener los [Drivers](https://github.com/Icesito68/7xx-Drivers) y el [Instalador](https://github.com/WOA-Project/DriverUpdater/releases/))
+
+  </summary>
+</details>
+
 ## Comencemos
 
 - [Instrucciones para instalar](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/particiones.md)
