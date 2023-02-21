@@ -47,7 +47,10 @@ rm 16
 ### Crear particiones
 > Si recibes cualquier advertencia que te diga ignorar o cancelar, solo escribe i y dale a enter enter
 
-#### Para los modelos de 64Gb:
+
+<details>
+<summary><b><strong>Para modelos de 64Gb</strong></b></summary>
+  
 - Crea la partición ESP (Aqui estará el bootloader de Windows y los archivos EFI)
 ```sh
 mkpart esp fat32 10.8GB 11GB
@@ -62,9 +65,12 @@ mkpart win ntfs 11GB 45GB
 ```sh
 mkpart userdata ext4 45GB 59.4GB
 ```
+  </summary>
+</details>
 
 
-#### Para modelos de 128Gb:
+<details>
+<summary><b><strong>Para modelos de 128Gb</strong></b></summary>
 
 - Crea la partición ESP (Aqui estará el bootloader de Windows y los archivos EFI)
 ```sh
@@ -80,7 +86,8 @@ mkpart win ntfs 11GB 65GB
 ```sh
 mkpart userdata ext4 65GB 123GB
 ```
-
+  </summary>
+</details>
 
 ### Hace a ESP la partición de arranque para que la imagen EFI pueda detectarla
 ```sh
