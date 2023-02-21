@@ -11,6 +11,28 @@ This project is in an early stage, all the files here have been contributed by o
 
 **IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
+<details>
+<summary><a><strong>Prerequisites</strong></a></summary>
+
+- Have the bootloader unlocked
+
+- Have the [TWRP](https://mega.nz/file/zY4GCDRT#PxUKhUHkucj1oRH_Iu-R6exDak66hPeI71xJWHCTQkY) or [Orange Fox](https://drive.google.com/file/d/1eHM9ST9ni-55bbT3z-TGSZQsgE3KYr9s/view ) installed
+
+- Have downloaded the [Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
+
+- Have a [Windows 11 Arm ISO](https://uupdump.net/)
+
+- Have [Parted](https://www.mediafire.com/file/s9bjano4pezphou/parted/file) (This file belongs to [Gus33000](https://github.com/gus33000))
+
+- Have the script of [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (This file belongs to [Gus33000](https://github.com/gus33000 ) )
+
+- Have the [X3 NFC Uefi](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/releases/tag/Uefi)
+
+- Have the [Drivers](https://github.com/Icesito68/7xx-Drivers) and the [Installer](https://github.com/WOA-Project/DriverUpdater/releases/))
+
+  </summary>
+</details>
+
 
 ## Get Started
 
