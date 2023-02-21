@@ -28,7 +28,7 @@ Este proyecto se encuentra en una etapa inicial, todos los archivos aquí han si
 
 - Tener la [Uefi del X3 NFC](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/releases/tag/Uefi)
 
-- Tener los [Drivers](https://github.com/Icesito68/7xx-Drivers) y el [Instalador](https://github.com/WOA-Project/DriverUpdater/releases/))
+- Tener los [Drivers](https://github.com/Icesito68/7xx-Drivers) y el [Instalador](https://github.com/WOA-Project/DriverUpdater/releases/)
 
   </summary>
 </details>
