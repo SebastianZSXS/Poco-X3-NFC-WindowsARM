@@ -21,3 +21,7 @@ This project is in an early stage, all the files here have been contributed by o
 ## Contributors
 [<img alt="ungeskriptet" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40729975?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ungeskriptet)
 [<img alt="SebastianZSXS" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/111822607?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/SebastianZSXS)
+[<img alt="Icesito68" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113939920?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
+[<img alt="Renegade Project" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63859504?s=200&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/edk2-porting)
+[<img alt="MollySophia" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/20746884?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/MollySophia)
+[<img alt="Idonotkno" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/22612859?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Idonotkno)
