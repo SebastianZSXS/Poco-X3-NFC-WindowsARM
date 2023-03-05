@@ -19,4 +19,4 @@ This project is in an early stage, all the files here have been contributed by o
 - [Español](language/español.md)
 
 ## Contributors
-[<img alt="ungeskriptet" src="https://avatars.githubusercontent.com/u/40729975?v=4" />](https://github.com/ungeskriptet)
+[<img alt="ungeskriptet" src="https://avatars.githubusercontent.com/u/40729975?v=4/u/3755345?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ungeskriptet)
