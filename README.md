@@ -20,3 +20,4 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Contributors
 [<img alt="ungeskriptet" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40729975?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ungeskriptet)
+[<img alt="SebastianZSXS" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/111822607?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/SebastianZSXS)
