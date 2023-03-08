@@ -19,7 +19,7 @@ Alfa, Windows 11 arranca pero sin USB, lo próximo es conseguir que este funcion
 - [ ] GPU
 - [ ] LTE 
 - [ ] SD 
-- [ ] Táctil ```El driver está listo, pero aún necesita más cosas para funcionar```
+- [ ] Táctil ```El driver está listo y definido en la tabla acpi, pero quizás necesite más cosas```
 - [x] UFS
 - [ ] USB ```Se está trabajando en el para que funcione en Windows```
 - [ ] WiFi
