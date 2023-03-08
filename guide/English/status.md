@@ -20,7 +20,7 @@ Alpha, Windows 11 boot but without USB, the next thing is to try to make the USB
 - [ ] GPU
 - [ ] LTE 
 - [ ] SD 
-- [ ] Touchscreen ```Is similar to Poco X3 Pro, In theory we already have a driver, but things are missing```
+- [ ] Touchscreen ```The driver is ready and defined in the acpi table, but you may need more stuff```
 - [x] UFS
 - [ ] USB ```Work is underway to make it work on Windows```
 - [ ] Wi-Fi
