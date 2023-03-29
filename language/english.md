@@ -38,7 +38,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - [Installation instructions](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/partition.md)
 
-- [Uninstall instructions](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/uninstall)
+- [Uninstall instructions](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/English/uninstall.md)
 
 
 ## Miscellaneous
