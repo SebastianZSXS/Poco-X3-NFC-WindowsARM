@@ -12,7 +12,7 @@ Si quieres blooquear tu bootloader de nuevo necesitas la tabla de particiones st
 
 ### Requisitos Previos
 
-- [gpt_both0.bin](../../../../releases/tag/binaries)
+- [gpt_both0.bin](../../../../releases/tag/Binaries)
 
 ### Notes
 
