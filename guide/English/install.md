@@ -7,6 +7,12 @@
 
 > You will need to have MTP disabled in Mount
 
+
+## Push necessary tools:
+```cmd
+adb push msc.sh /sbin
+```
+
 ### Execute the msc script
 
 ```cmd
