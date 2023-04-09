@@ -24,6 +24,11 @@ fastboot boot <twrp.img>
 #### Unmount all partitions
 Go to TWRP settings and unmount all partitions
 
+ ## Push necessary tools:
+```cmd
+adb push parted /sbin
+```
+
 ## Start the ADB shell
 ```cmd
 adb shell
