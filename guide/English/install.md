@@ -16,7 +16,7 @@ adb push msc.sh /sbin
 ### Execute the msc script
 
 ```cmd
-adb shell msc.sh
+adb shell sh /sbin/msc.sh
 ```
 
   

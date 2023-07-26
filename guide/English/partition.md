@@ -34,6 +34,14 @@ adb push parted /sbin
 adb shell
 ```
 
+## Create Partitions
+
+### Give permissions
+```cmd
+chmod +x /sbin/*
+```
+
+
 ### Start parted
 ```sh
 parted /dev/block/sda
